@@ -1,0 +1,1 @@
+[08-Aug-2019 12:55:49 Asia/Riyadh] PHP Fatal error:  Call to undefined method Student_model::getStudentsIdByAdmissionNum() in /home/crypadzd/mibs.school/application/controllers/Student.php on line 673
